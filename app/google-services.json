@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "131969220964",
+    "firebase_url": "https://seconddb-ff999.firebaseio.com",
+    "project_id": "seconddb-ff999",
+    "storage_bucket": "seconddb-ff999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131969220964:android:09207af83b3028d7",
+        "android_client_info": {
+          "package_name": "com.example.twinkle.second"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131969220964-dvib5r0l3ls6fidvdo6s4sidbg81v4m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twinkle.second",
+            "certificate_hash": "eff21c9b9286f82a8d9c17ac6915bdaaf3c576ad"
+          }
+        },
+        {
+          "client_id": "131969220964-k5m66rvf9c2fsalcutq8kirvrna33n16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgIdlaBzuoRjhKru1J58OCK78T2ewlGaQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131969220964-k5m66rvf9c2fsalcutq8kirvrna33n16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
